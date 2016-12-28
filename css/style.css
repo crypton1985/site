@@ -1,2 +1,11 @@
-body{background:yellow;}
-	h1{color:#ff2;}
+body{background:green;}
+	h1{color:blueviolet;}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 32px;
+}
+body div{
+    font-size: 24px;
+}
